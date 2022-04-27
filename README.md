@@ -1,6 +1,6 @@
 # DevSecOps Impacta Aula 02
 
-demo aula 2 devsecops
+demo aula 2 devsecops turma cyber security
 
 #Subtítulo
 
